@@ -1,0 +1,3 @@
+rootProject.name = 'zeroc-ice-gradle'
+include('client')
+include('server')
